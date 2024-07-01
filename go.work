@@ -1,0 +1,12 @@
+go 1.22
+
+use (
+    .
+    ./backend
+    ./backend/proto
+    ./backend/proto/out
+    ./backend/api
+    ./backend/utils
+    ./backend/utils/security
+    ./backend/utils/security/crypto
+)

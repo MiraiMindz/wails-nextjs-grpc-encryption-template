@@ -1,0 +1,7 @@
+{
+  "name": "Wails + NextJS with Source Dir and App router, TailwindCSS and gRPC, Protocol Buffers, REST and end-to-end encryption via RSA.",
+  "shortname": "wails-nextjs-ts-app-src-tailwind-grpc-rest-encryption",
+  "author": "MiraiMindz",
+  "description": "This is a monolithic template that contains 3 parts, Server/, Backend/ and FrontEnd/ with submodule initialization scripts and automation tools for gRPC and Protocol Buffers for you to develop a Cross-Platform + Web app in a single codebase.",
+  "helpurl": "https://github.com/MiraiMindz/wails-nextjs-grpc-encryption-template"
+}
